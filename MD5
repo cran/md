@@ -1,0 +1,15 @@
+41e6a76e25c3408ac0e8267fca19cc97 *DESCRIPTION
+244a9ccedc8c1cba3ed38b4bd3cbe01c *NAMESPACE
+226534055211773802d9263e1158c768 *R/minimumDistanceMethod.R
+b4fd05beb9b7306679681e93ed579161 *man/counter.Rd
+66b7c03758bcf0d1a2f28d4604c55ccf *man/deltaboxm.Rd
+46d64995f899dffc3d22a2a2a5831bcf *man/dmm.Rd
+1227522f0e07fa835d869ec0f77e8930 *man/fhat.Rd
+34afa6861e5584e0637b85d5375b8fe9 *man/fhatboxm.Rd
+4bc03b6dc5cfb1a6a160d3bbdb03709a *man/ker.Rd
+da553382c2a651bd015173630ac02c7b *man/md.Rd
+3bff491ac0a5871f96cd54bc67a331de *man/nom.Rd
+a8d3f3eb13c1fe8c3433a5ad15aee184 *man/scheffe.Rd
+64c768d47224a3a0fc05fa24758d934e *man/subcounter.Rd
+0a732c2c2921423e8437dbc6e3030aba *man/xmm.Rd
+0b0638d344fc025f3ef457641895a016 *man/xym.Rd
